@@ -1,4 +1,4 @@
-<template>
+cd hallin-project<template>
   <div id="single-blog">
     <h1 v-rainbow>{{ blog.title }}</h1>
     <article>{{ blog.content }}</article>
